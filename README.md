@@ -11,6 +11,8 @@ Welcome to my cybersecurity lab repository! This space is dedicated to showcasin
 [Information-Stealer](https://github.com/saumya103/Information-Stealer.git):The objective of this project is to develop an Information Stealer that extracts sensitive information such as clipboard data, system information, IP resolution using socket,
 HTTP headers using requests library and also WHOIS information.
 
+[Reverse-Shell](https://github.com/saumya103/Reverse-Shell.git)The goal of this project is to create a reverse shell backdoor using Python. The reverse shell allows remote control of a compromised system by establishing a connection from the victim's machine (client) to an attacker's system (server)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saumya103&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saumya103&theme=dark&hide_border=true)<br/>
