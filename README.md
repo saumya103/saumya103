@@ -15,13 +15,3 @@ HTTP headers using requests library and also WHOIS information.
 - [Reverse-Shell:](https://github.com/saumya103/Reverse-Shell.git) The goal of this project is to create a reverse shell backdoor using Python. The reverse shell allows remote control of a compromised system by establishing a connection from the victim's machine (client) to an attacker's system (server).
 
 - [Network-Scanner:](https://github.com/saumya103/Network-Scanner.git) This project is a high-performance TCP port scanner built in Python, designed to identify open ports and services running on a target host. It uses multithreading via concurrent.futures to scan hundreds of ports in parallel, making it fast and efficient for both educational and practical use.
-
-#📊 GitHub Stats:
-#![](https://github-readme-stats.vercel.app/api?username=saumya103&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-#![](https://nirzak-streak-stats.vercel.app/?user=saumya103&theme=dark&hide_border=true)<br/>
-#![](https://github-readme-stats.vercel.app/api/top-langs/?#username=saumya103&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-#[![](https://visitcount.itsvg.in/api?id=saumya103&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
