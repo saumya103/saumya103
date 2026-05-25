@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my repository! This space is dedicated to showcasing my interest in web development and penetration tester.Actively engaged in CTF competitions, applying both development and security skills to real-world challenges and committed to continuous learning through problem solving.
+Welcome to my repository! This space is dedicated to showcasing my interest in penetration tester.Actively engaged in CTF competitions, applying security skills to real-world challenges and committed to continuous learning through problem solving.
 
 
 ## 🌐 Socials:
