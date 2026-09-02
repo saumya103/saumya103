@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Saumya Elchatwar!
-I am an **Offensive Security** practitioner focused on **Penetration Testing, Web Exploitation, and Network Security**. I build custom Python security tools—ranging from multithreaded network scanners to AI-driven malware and phishing detection models—while actively sharpening my practical skills through CTFs and TryHackMe.
+I am an **Offensive Security** practitioner focused on **Penetration Testing, Web Exploitation, and Network Security**. I develop Python security tools for network scanning, threat intelligence, and AI-powered malware detection while continuously sharpening my skills on TryHackMe and CTF platforms.
+
 ## 🌐 Socials:
 [![TryhackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saumyaelchatwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyaelchatwar) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elchatwarsaumya@gmail.com) 
 
