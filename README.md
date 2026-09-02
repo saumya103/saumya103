@@ -11,7 +11,6 @@ Welcome to my repository! This space is dedicated to showcasing my interest in p
 # Projects:
 - [AI Powered Malware & Phishing Detection](https://github.com/saumya103/Ai-Powered-Malware-and-Phishing-Detection.git):Engineered and deployed a real-time Flask web application consolidating a phishing URL analyzer and a structural PE executable scanner.
   
-- [Information-Stealer](https://github.com/saumya103/Information-Stealer.git):The objective of this project is to develop an Information Stealer that extracts sensitive information such as clipboard data, system information, IP resolution using socket,
-HTTP headers using requests library and also WHOIS information.
+- [Keylogger](https://github.com/saumya103/Keylogger.git):Python-based keylogger and system monitoring utility with Telegram Bot integration for remote management capturing keystrokes, screenshots, tracks active window titles, gathers system hardware/network information, and streams logged data back to a specified Telegram bot.
 
 - [Reverse-Shell:](https://github.com/saumya103/Reverse-Shell.git) The goal of this project is to create a reverse shell backdoor using Python. The reverse shell allows remote control of a compromised system by establishing a connection from the victim's machine (client) to an attacker's system (server).
