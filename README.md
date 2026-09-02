@@ -1,6 +1,5 @@
-# 💫 About Me:
-Welcome to my repository! This space is dedicated to showcasing my interest in penetration tester. Actively engaged in CTF competitions, applying security skills to real-world challenges and committed to continuous learning through problem solving.
-
+# 👋 Hi, I'm Saumya Elchatwar!
+An **Offensive Security** practitioner passionate about **Web Exploitation**, **VAPT**, and **Network Security**.
 
 ## 🌐 Socials:
 [![TryhackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/saumyaelchatwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyaelchatwar) [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elchatwarsaumya@gmail.com) 
